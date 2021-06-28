@@ -1,3 +1,6 @@
+* {
+    background-color: lightgray;
+}
 .Work {
     font-family: 'Abel', sans-serif;
 }
@@ -25,11 +28,16 @@
 }
 
 .circle {
-    height: 140px;
-    width: 140px;
+    height: 150px;
+    width: 150px;
     font-family: 'Anton', sans-serif;
     color: white;
-    border-color: white;
+    border: solid 6px white;
+}
+.circle p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 .circle-red {
