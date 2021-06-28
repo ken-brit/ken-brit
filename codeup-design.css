@@ -28,29 +28,41 @@
 }
 
 .circle {
-    height: 150px;
-    width: 150px;
+    height: 95px;
+    width: 95px;
     font-family: 'Anton', sans-serif;
     color: white;
     border: solid 6px white;
-}
-.circle p {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: ;
+    margin-bottom: 3px;
+    padding: 5px;
+
 }
 .circle-red {
     background-color: #E6563B;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
+
 .circle-orange {
     background-color: #EB9D3A;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
 }
 .circle-green {
     background-color: #7Cb06c;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
 }
 .circle-teal {
     background-color: #00ABA9;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 img {
@@ -59,6 +71,8 @@ img {
     border-radius: 20px;
     display: flex;
     justify-content: center;
+    margin-bottom: 5px;
+    margin-top: 15px;
 }
 
 .mini-logos {
@@ -67,6 +81,7 @@ img {
     border: none;
     font-family: 'Anton', sans-serif;
     color: black;
+
 
 }
 .mini-red {
