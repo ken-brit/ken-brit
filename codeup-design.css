@@ -1,0 +1,46 @@
+.Work {
+    font-family: 'Abel', sans-serif;
+}
+.Blog {
+    font-family: 'Abel', sans-serif;
+}
+.Services {
+    font-family: 'Abel', sans-serif;
+}
+.Contact {
+    font-family: 'Abel', sans-serif;
+}
+.codeup-header {
+    font-family: 'Abel', sans-serif;
+}
+.visual-web {
+    font-family: 'Anton', sans-serif;
+    font-size: 42px;
+
+}
+.location {
+    font-family: 'Anton', sans-serif;
+    font-size: x-large;
+    margin: 0;
+}
+
+.circle {
+    height: 140px;
+    width: 140px;
+    font-family: 'Anton', sans-serif;
+    color: white;
+    border-color: white;
+
+}
+.circle-red {
+    background-color: #E6563B;
+}
+.circle-orange {
+    background-color: #EB9D3A;
+}
+.circle-green {
+    background-color: #7Cb06c;
+}
+.circle-teal {
+    background-color: #00ABA9;
+}
