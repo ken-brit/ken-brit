@@ -18,7 +18,7 @@
 }
 .visual-web {
     font-family: 'Anton', sans-serif;
-    font-size: 42px;
+    font-size: 40px;
 
 }
 .location {
@@ -34,7 +34,7 @@
     color: white;
     border: solid 6px white;
     margin-bottom: 3px;
-    padding: 5px;
+
 
 }
 .circle-red {
@@ -66,11 +66,12 @@
 }
 
 img {
-    width: 100%;
+    width: 300px;
+    height: 200px;
     border: 10px solid #acabab;
     border-radius: 20px;
     display: flex;
-    justify-content: center;
+    align-content: center;
     margin-bottom: 5px;
     margin-top: 15px;
 }
