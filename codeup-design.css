@@ -1,5 +1,5 @@
 * {
-    background-color: lightgray;
+    background-color: #d7d7d7;
 }
 .Work {
     font-family: 'Abel', sans-serif;
@@ -38,6 +38,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: ;
 }
 .circle-red {
     background-color: #E6563B;
@@ -49,5 +50,32 @@
     background-color: #7Cb06c;
 }
 .circle-teal {
+    background-color: #00ABA9;
+}
+
+img {
+    width: 100%;
+    border: 10px solid #acabab;
+    border-radius: 20px;
+}
+
+.mini-logos {
+    width: 30px;
+    height: 30px;
+    border: none;
+    font-family: 'Anton', sans-serif;
+    color: black;
+
+}
+.mini-red {
+    background-color: #E6563B;
+}
+.mini-orange {
+    background-color: #EB9D3A;
+}
+.mini-green {
+    background-color: #7Cb06c;
+}
+.mini-teal {
     background-color: #00ABA9;
 }
