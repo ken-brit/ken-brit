@@ -63,6 +63,7 @@
     align-items: center;
     justify-content: center;
     display: flex;
+
 }
 
 img {
@@ -108,4 +109,12 @@ img {
 .last-font{
     font-family: 'Anton', sans-serif;
     font-size: 20px;
+}
+.twitter{
+    width: 55px;
+    height: 55px;
+    border: none;
+}
+.tweet{
+    margin-top: 15px;
 }
